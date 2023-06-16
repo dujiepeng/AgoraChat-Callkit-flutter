@@ -1,6 +1,6 @@
 name: agora_chat_callkit
 description: agora chat callkit.
-version: 0.1.0
+version: 1.0.0
 homepage: https://www.agora.io/en/
 
 environment:
