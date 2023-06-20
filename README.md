@@ -57,7 +57,7 @@ If your target platform is Android, your development environment must meet the f
 Add the following dependencies in `pubspec.yaml`:
 
 ```
-  agora_chat_sdk: 1.1.0
+  agora_chat_sdk: 1.1.1
   agora_rtc_engine: 6.1.0
 ```
 
